@@ -3,40 +3,6 @@ REST Countries
 
 Get information about countries via a RESTful API https://restcountries.eu
 
-[![Build Status](https://travis-ci.org/fayder/restcountries.svg?branch=master)](https://travis-ci.org/fayder/restcountries)
-
-Donate!
----------------
-The restcountries project has been acquired by apilayer, one of the leading providers of API microservices. We will keep supporting restcountries and providing it as a free solution for developers. We will finance this project fully and have turned off the donations feature.
-
-Users
----------------
-RESTCountries has over 1200 users, including:
-
-[TTÜ]
-
-[Spotify International Pricing Index]
-
-[Gorillaz]
-
-[Wanderlust]
-
-[Xero]
-
-[FxPro]
-
-[SKROSS]
-
-[onefinestay]
-
-[Much Better Adventures]
-
-Stay up-to-date
----------------
-Follow RESTCountries on [Twitter]
-
-Or subscribe to the [mailing list]
-
 API Endpoints
 =======
 
@@ -292,29 +258,3 @@ License
 [Mozilla Public License] MPL 2.0
 
 [dist]: https://github.com/fayder/restcountries/
-[Twitter]: https://twitter.com/restcountries
-[mailing list]: http://eepurl.com/cC-h2v
-[Donate]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V5AJAEMKE6A3E
-[@mledoze]: https://github.com/mledoze/countries
-[List of countries]: https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes
-[Languages]: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-[Currencies]: https://en.wikipedia.org/wiki/List_of_circulating_currencies
-[Area]: https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area
-[Population]: https://en.wikipedia.org/wiki/List_of_countries_by_population
-[Gini coefficient]: http://en.wikipedia.org/wiki/List_of_countries_by_income_equality
-[Mozilla Public License]: https://www.mozilla.org/en-US/MPL/2.0/
-[world-currencies]: https://github.com/wiredmax/world-currencies
-[REST Countries Node.js]: https://github.com/aredo/restcountries
-[REST Countries Ruby]: https://github.com/davidesantangelo/restcountry
-[REST Countries Go]: https://github.com/alediaferia/gocountries
-[REST Countries Python]: https://github.com/SteinRobert/python-restcountries
-[Countries of the world]: http://countries.petethompson.net
-[TTÜ]: https://www.ttu.ee/studying/tut_admission/programmes-in-tut/ask-us/
-[Spotify International Pricing Index]: http://mts.io/2014/05/07/spotify-pricing-index/
-[Gorillaz]: http://www.gorillaz.com/
-[Wanderlust]: https://wanderlust.com/
-[Xero]: https://www.xero.com/
-[FxPro]: http://www.fxpro.com/
-[onefinestay]: https://www.onefinestay.com/
-[Much Better Adventures]: https://www.muchbetteradventures.com
-[SKROSS]: http://www.skross.com/en
